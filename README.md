@@ -1,2 +1,15 @@
-# AI-for-the-AI
-Here’s a **350-character GitHub description** version, Vansh:  ---  AI-powered dashboard that tracks and predicts carbon emissions from computing tasks. Built with Streamlit, Scikit-learn, and CodeCarbon, it suggests eco-friendly schedules using real-time grid data. Promotes green AI practices and supports UN SDG 13: Climate Action. 
+# 🌍 EcoMindAI – Real-Time AI Carbon Footprint Dashboard
+
+### 🚀 Project Overview
+EcoMindAI monitors and predicts AI-related CO₂ emissions while integrating real-time UK grid intensity data.
+It helps users and developers make sustainable decisions through live monitoring and optimization.
+
+### ⚙️ Run Instructions
+1. Install dependencies  
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Run the dashboard  
+   ```bash
+   streamlit run app.py
+   ```
